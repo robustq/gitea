@@ -90,11 +90,11 @@ require (
 	go.jolheiser.com/hcaptcha v0.0.4
 	go.jolheiser.com/pwn v0.0.3
 	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
-	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
+	golang.org/x/net v0.0.0-20220325170049-de3da57026de
 	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b
-	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9
+	golang.org/x/sys v0.0.0-20220329152356-43be30ef3008
 	golang.org/x/text v0.3.7
-	golang.org/x/tools v0.1.9
+	golang.org/x/tools v0.1.10
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/ini.v1 v1.66.4
 	gopkg.in/yaml.v2 v2.4.0
@@ -166,12 +166,12 @@ require (
 	github.com/go-openapi/inflect v0.19.0 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.19.6 // indirect
-	github.com/go-openapi/loads v0.21.0 // indirect
-	github.com/go-openapi/runtime v0.21.1 // indirect
+	github.com/go-openapi/loads v0.21.1 // indirect
+	github.com/go-openapi/runtime v0.23.3 // indirect
 	github.com/go-openapi/spec v0.20.4 // indirect
-	github.com/go-openapi/strfmt v0.21.1 // indirect
-	github.com/go-openapi/swag v0.19.15 // indirect
-	github.com/go-openapi/validate v0.20.3 // indirect
+	github.com/go-openapi/strfmt v0.21.2 // indirect
+	github.com/go-openapi/swag v0.21.1 // indirect
+	github.com/go-openapi/validate v0.21.0 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/goccy/go-json v0.9.5 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
@@ -207,7 +207,7 @@ require (
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
-	github.com/magiconair/properties v1.8.5 // indirect
+	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/markbates/going v1.0.0 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
@@ -238,7 +238,7 @@ require (
 	github.com/shurcooL/httpfs v0.0.0-20190707220628-8d4bc4ba7749 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/soheilhy/cmux v0.1.5 // indirect
-	github.com/spf13/afero v1.8.0 // indirect
+	github.com/spf13/afero v1.8.2 // indirect
 	github.com/spf13/cast v1.4.1 // indirect
 	github.com/spf13/cobra v1.3.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
@@ -265,11 +265,11 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.0-alpha.0 // indirect
 	go.etcd.io/etcd/tests/v3 v3.5.0-alpha.0 // indirect
 	go.etcd.io/etcd/v3 v3.5.0-alpha.0 // indirect
-	go.mongodb.org/mongo-driver v1.8.2 // indirect
+	go.mongodb.org/mongo-driver v1.8.4 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
-	golang.org/x/mod v0.5.1 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
